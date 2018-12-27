@@ -1,6 +1,5 @@
-# client
-## DEMO
-### vue + vuex
+# vue DEMO
+## vue + vuex
 
 ## Project setup
 ```
