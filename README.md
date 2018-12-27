@@ -1,4 +1,4 @@
-# vue DEMO
+# vue demo
 ## vue + vuex
 
 ## Project setup
